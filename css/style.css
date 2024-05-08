@@ -60,7 +60,9 @@ background-color: gray;
         padding-right: 32px;
         gap: 15px !important;
     }
-
+    .navigasi {
+        padding: 0;
+    }
 }
 
 .core-item {
